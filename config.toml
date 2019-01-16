@@ -1,3 +1,4 @@
 mongo-url = "mongodb://s-mongo:27017"
 elasticsearch-urls = ["http://s-es:9200"]
 cluster-name = 'apollo'
+workers = ["m1", "m2", "m3"]
